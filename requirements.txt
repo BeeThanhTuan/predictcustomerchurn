@@ -1,0 +1,5 @@
+streamlit
+numpypip show streamlit
+scikit-learn
+#local packages
+-e .
