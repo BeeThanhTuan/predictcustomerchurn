@@ -1,5 +1,6 @@
 streamlit
 numpypip show streamlit
 scikit-learn
+sklearn.preprocessing
 #local packages
 -e .
